@@ -1,0 +1,33 @@
+h1{
+    color: rgb(255, 0, 0);  
+    text-align:center;
+  }
+
+  h3{  
+    text-align:center;
+  }
+
+  h4{ 
+    text-align:center;
+  }
+
+  img{
+    text-align:center;
+    max-width: 400px;  
+  }
+
+  #thirdDiv{
+     margin-left: auto;
+     margin-right: auto;
+     width: 500px;
+     height: 1350px; 
+     padding: 5px auto;
+     border: 5px crimson; border-style: solid double;
+     background: yellowgreen;
+  }
+
+  #spanId{
+    text-align:center;
+      font-size: 18px;
+      margin: 50px;
+  }
