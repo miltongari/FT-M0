@@ -1,0 +1,10 @@
+Variable: Son datos que pueden cambiar de valor, es como si usaras lapiz es vez de un lapicero.
+
+Strings: Es un conjunto de letras donde estas se van sumando.
+
+Funciones: Son microprogramas dentro del programa.
+
+Declaraciones if: Son deciciones en un programa.
+
+Valores booleanos: Son dicisiones binarias.
+
